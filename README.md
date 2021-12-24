@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @UltimateKing22, I play breath of the wild and do a bit of coding, I guess
-- 👀 I’m interested in breath of the wild
+- 👋 Hi, I’m @UltimateKing22, I play Breath of the Wild and do a bit of coding, I guess
+- 👀 I’m interested in Breath of the Wild
 - 🌱 I’m currently learning programming, I guess
-- 💞️ I’m looking to collaborate on ... What's collaborating?
-- 📫 How to reach me: If Github has a messenger, that I guess, otherwise, if you find me on Discord, that'll work
+- 📫 How to reach me: Email "ultimateking491@gmail.com"
 
 <!---
 UltimateKing22/UltimateKing22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
